@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Proyecto Web de Restaurante",
+        "description": "Desarrollo de una plataforma web completa para un restaurante, con panel administrativo, pasarela de pagos PayPal, formulario de contacto, inicio de sesión de usuarios y carrito de compras. Incluye generación de boletas y confirmación de pedidos vía correo electrónico.",
+        "ruta_imagen": "/images/project_1.jpg"
+    },
+    {
+        "title": "Sistema de Automatización y Control de Logs",
+        "description": "Implementación de un sistema automatizado para la gestión y visualización de logs de historial de navegación de usuarios. Integrado con Active Directory y notificaciones por correo para mejorar el control y auditoría del entorno corporativo.",
+        "ruta_imagen": "/images/project_2.jpg"
+    },
+    {
+        "title": "Sistema de Monitoreo en Tiempo Real con IA",
+        "description": "Desarrollo de una solución de monitoreo en tiempo real para dispositivos informáticos utilizando Zabbix y Leaflet. Integración de inteligencia artificial en un chat de voz interactivo que mejora la experiencia de supervisión y soporte técnico.",
+        "ruta_imagen": "/images/project_3.jpg"
+    },
+    {
+        "title": "Sistema Web de Gestión de Altas y Bajas de Usuarios",
+        "description": "Creación de un sistema web para el control y reporte de altas y bajas de usuarios en una entidad, con panel de administración, reportes automáticos y herramientas de análisis de datos integradas para una mejor toma de decisiones.",
+        "ruta_imagen": "/images/project_4.jpg"
+    }
+]
